@@ -1,4 +1,6 @@
+![TRAA Logo](../image/traa_logo-MASTER.jpg)
 # TRAA Midterm Review
+
 
 Going over some stuff that almost everyone got slightly wrong.
 
@@ -17,7 +19,7 @@ An in-depth paragraph about your project and overview of use.
 
 Uses CSS3 and HTML5 latest features. Be sure to prefix any 
 bleeding-edge rules,tags, etc (see [caniuse](http://caniuse.com) for reference).
-Also using  latest ES6/next, you should probably think about(see [babel]（https://babeljs.io/）)
+Also using  latest ES6/next, you should probably think about(see [babel](https://babeljs.io/)for reference).
 
 
 ### Installing
