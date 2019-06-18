@@ -1,4 +1,4 @@
-![TRAA Logo](../images/traa_logo-MASTER.png)
+![TRAA Logo](https://github.com/TomLin19/presentation-review/images/traa_logo-MASTER.png)
 # TRAA Midterm Review
 
 
